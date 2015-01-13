@@ -1,5 +1,5 @@
 # shiny-batman
-Check for now post on a blog and notify you when a new post is added.
+Check for new post on a blog and notify you when a new post is added.
 
 ##Alpha
 This is an alpha est built to check the technology on a blog simple blog page.
